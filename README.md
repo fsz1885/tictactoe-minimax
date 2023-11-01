@@ -1,4 +1,4 @@
-# **Tic-Tac-Toe CLI Game**
+# **Tic-Tac-Toe Game: CLI and GUI**
 
 A console-based Tic-Tac-Toe game that supports both player vs. player and player vs. AI modes. The game employs the Minimax algorithm for AI decision-making.
 
