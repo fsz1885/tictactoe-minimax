@@ -40,6 +40,10 @@ This recursive approach continues until a terminal state—like a win, loss, or 
     - `x` -> position 7
     - `c` -> position 8
 
-> **Note:** The game's board positioning is inspired by a standard QWERTY keyboard layout.
+
+> **Note:** The game's board positioning is inspired by a standard QWERTY keyboard layout.\
+> q w e\
+> a s d\
+> z x c
 
 4. **Victory or Draw:** The game concludes once a player secures three consecutive symbols (horizontally, vertically, or diagonally) or when the board is completely filled, resulting in a draw.
